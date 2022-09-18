@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/test_0000/</loc>
+<lastmod>2022-07-29T13:11:03+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2022_ww32/</loc>
+<lastmod>2022-08-15T00:30:32+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2022_ww33/</loc>
+<lastmod>2022-08-22T00:30:33+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2022_ww34/</loc>
+<lastmod>2022-08-29T00:30:34+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2022_books_001/</loc>
+<lastmod>2022-08-31T00:31:01+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2022_ww35/</loc>
+<lastmod>2022-09-05T00:30:35+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2022_ww36/</loc>
+<lastmod>2022-09-12T00:30:36+08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page2/</loc>
 </url>
 </urlset>
