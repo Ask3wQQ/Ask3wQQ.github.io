@@ -46,4 +46,40 @@ var store = [{
         "tags": ["diary"],
         "url": "/2022_ww37/",
         "teaser": null
+      },{
+        "title": "[Weekly] WW38'22",
+        "excerpt":"2022/09/19 ~ 2022/09/25   日常   運動   本週每日步數：     ","categories": [],
+        "tags": ["diary"],
+        "url": "/2022_ww38/",
+        "teaser": null
+      },{
+        "title": "[Weekly] WW39'22",
+        "excerpt":"2022/09/26 ~ 2022/10/02   日常   運動   本週每日步數：     ","categories": [],
+        "tags": ["diary"],
+        "url": "/2022_ww39/",
+        "teaser": null
+      },{
+        "title": "[Weekly] WW40'22",
+        "excerpt":"2022/10/03 ~ 2022/10/09   日常   運動   本週每日步數：     ","categories": [],
+        "tags": ["diary"],
+        "url": "/2022_ww40/",
+        "teaser": null
+      },{
+        "title": "[Weekly] WW41'22",
+        "excerpt":"2022/10/10 ~ 2022/10/16   日常   運動   本週每日步數：     ","categories": [],
+        "tags": ["diary"],
+        "url": "/2022_ww41/",
+        "teaser": null
+      },{
+        "title": "[Weekly] WW42'22",
+        "excerpt":"2022/10/17 ~ 2022/10/23   日常   運動   本週每日步數：     ","categories": [],
+        "tags": ["diary"],
+        "url": "/2022_ww42/",
+        "teaser": null
+      },{
+        "title": "[Weekly] WW43'22",
+        "excerpt":"2022/10/24 ~ 2022/10/30   日常   運動   本週每日步數：     ","categories": [],
+        "tags": ["diary"],
+        "url": "/2022_ww44/",
+        "teaser": null
       }]
