@@ -80,6 +80,6 @@ var store = [{
         "title": "[Weekly] WW43'22",
         "excerpt":"2022/10/24 ~ 2022/10/30   日常   運動   本週每日步數：     ","categories": [],
         "tags": ["diary"],
-        "url": "/2022_ww44/",
+        "url": "/2022_ww43/",
         "teaser": null
       }]
